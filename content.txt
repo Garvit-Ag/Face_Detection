@@ -1,0 +1,10 @@
+OpenCV is an image processing library created by Intel
+
+A Haar Cascade Classifier is a machine learning object detection algorithm used to identify objects in
+images or video streams. It uses Haar-like features to detect objects based on their shape and appearance.
+Haar Cascades are commonly used for tasks such as face detection, pedestrian detection, and object recognition
+in images and videos.
+
+A grayscale image is an image where each pixel value represents the intensity of light at that point,
+typically ranging from 0 (black) to 255 (white).
+Gray=0.2989×Red+0.5870×Green+0.1140×Blue
